@@ -1,0 +1,16 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.env
+.DS_Store
+Thumbs.db
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+~$*.pbix
+~$*.pbit
+data/Telco-Customer-Churn.csv

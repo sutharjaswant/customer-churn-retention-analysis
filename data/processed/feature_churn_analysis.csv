@@ -1,0 +1,28 @@
+Feature,Category,Churn_Rate
+OnlineSecurity,No,41.77866742922505
+OnlineSecurity,No internet service,7.434210526315789
+OnlineSecurity,Yes,14.640198511166252
+OnlineBackup,No,39.94169096209912
+OnlineBackup,No internet service,7.434210526315789
+OnlineBackup,Yes,21.567010309278352
+DeviceProtection,No,39.14027149321267
+DeviceProtection,No internet service,7.434210526315789
+DeviceProtection,Yes,22.539288668320925
+TechSupport,No,41.647465437788014
+TechSupport,No internet service,7.434210526315789
+TechSupport,Yes,15.196078431372548
+StreamingTV,No,33.53506585973656
+StreamingTV,No internet service,7.434210526315789
+StreamingTV,Yes,30.114687384387718
+StreamingMovies,No,33.728874505573536
+StreamingMovies,No internet service,7.434210526315789
+StreamingMovies,Yes,29.952398388868545
+PhoneService,No,25.0
+PhoneService,Yes,26.747481108312343
+MultipleLines,No,25.08124076809454
+MultipleLines,No phone service,25.0
+MultipleLines,Yes,28.648466464442198
+Partner,No,32.97609233305853
+Partner,Yes,19.71706454465075
+Dependents,No,31.279140482465028
+Dependents,Yes,15.531205335874226
