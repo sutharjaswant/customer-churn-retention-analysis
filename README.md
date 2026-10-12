@@ -86,7 +86,9 @@ Download the CSV file and save it as `data/Telco-Customer-Churn.csv`.
 
 \- High-risk customer churn rate: 73.03%
 
+\##Project Dashboard
 
+Power BI dashboard showing customer churn, retention patterns, and high-risk customer segments.
 
 \## Recommendations
 
